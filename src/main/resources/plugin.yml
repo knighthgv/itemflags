@@ -1,0 +1,7 @@
+name: CodeCungKnight
+version: '${project.version}'
+main: me.knighthat.plugin.CodeCungKnight
+api-version: 1.19
+
+commands:
+  menu:
